@@ -1,0 +1,10 @@
+D:\Application\Myself\看漫画复制图片\看漫画复制图片\bin\Debug\看漫画复制图片.exe.config
+D:\Application\Myself\看漫画复制图片\看漫画复制图片\bin\Debug\看漫画复制图片.exe
+D:\Application\Myself\看漫画复制图片\看漫画复制图片\bin\Debug\看漫画复制图片.pdb
+D:\Application\Myself\看漫画复制图片\看漫画复制图片\obj\Debug\看漫画复制图片.Form1.resources
+D:\Application\Myself\看漫画复制图片\看漫画复制图片\obj\Debug\看漫画复制图片.Properties.Resources.resources
+D:\Application\Myself\看漫画复制图片\看漫画复制图片\obj\Debug\看漫画复制图片.csproj.GenerateResource.Cache
+D:\Application\Myself\看漫画复制图片\看漫画复制图片\obj\Debug\看漫画复制图片.csproj.CoreCompileInputs.cache
+D:\Application\Myself\看漫画复制图片\看漫画复制图片\obj\Debug\看漫画复制图片.exe
+D:\Application\Myself\看漫画复制图片\看漫画复制图片\obj\Debug\看漫画复制图片.pdb
+D:\Application\Myself\看漫画复制图片\看漫画复制图片\obj\Debug\看漫画复制图片.csprojResolveAssemblyReference.cache
